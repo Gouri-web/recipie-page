@@ -61,3 +61,8 @@ No Results Handling:
 If no recipes are found or the input field is empty, a friendly message will be displayed prompting the user to try again.
 No installation or additional setup is required - simply open the HTML file and start exploring recipes! 🍽️
 
+Example Screenshot
+---
+<img width="600" height="600" alt="Screenshot 2026-02-20 194610" src="https://github.com/user-attachments/assets/42f4e005-dbcb-4df1-8576-0cfc9ab3f30b" />
+
+Enjoyy the recipies!!
